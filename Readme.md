@@ -2,7 +2,7 @@
 
 DOCUMENTACION EN ESPAÑOL
 
-![imagen scrol automatico en menu](/images/demo-carousel.jpg "imagen scrol automatico en menu")
+![imagen scrol automatico en menu](/images/demo.jpg "imagen scrol automatico en menu")
 
 ## Objetivos
 Lograr un menu en el cual al navegar en alguno de sus links, se logre el scroll automatico a esa seccion
@@ -17,4 +17,4 @@ Lograr un menu en el cual al navegar en alguno de sus links, se logre el scroll 
 * Optimizarlo para soporte en todos los navegadores
 
 ## Ver demo
-[Carousel en vanilla javascript](https://angelsalvadordev.github.io/carousel-javascript-puro/)
+[Scroll automatico al navegar](https://angelsalvadordev.github.io/scroll-automatico-javascript/)
